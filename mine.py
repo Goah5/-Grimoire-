@@ -38,9 +38,10 @@ def display_commands_list(*arg) -> None:
 def f0(*arg) -> None:
     quit()
 
+
 def f1(*arg) -> None:
     if arg:
-        for i in range(int(arg[0])):
+        for _ in range(abs(int(arg[0]))):
             create_next_page(False)
     else:
         create_next_page(False)
@@ -48,7 +49,7 @@ def f1(*arg) -> None:
 
 def f2(*arg) -> None:
     if arg:
-        for i in range(int(arg[0])):
+        for _ in range(abs(int(arg[0]))):
             create_next_page(True)
     else:
         create_next_page(True)
@@ -68,17 +69,17 @@ def main():
         Comands_list[inp.pop(0)][0](*inp)
 
 
-os.chdir(os.path.dirname(os.path.abspath(__file__)))
-Comands_list = {"0": [f0, "Выход"],
-                "1": [display_commands_list, 'Спрафка'],
-                "2": [f1, 'Добавить Файл'],
-                "3": [f2, 'Добавить Папку']}
-
-
-if len(argv) > 1:
-    for i in argv[1:]:
-        if i in Comands_list.keys():
-            Comands_list[i][0]()
-
 if __name__ == "__main__":
-    main()
+    os.chdir(os.path.dirname(os.path.abspath(__file__)))
+
+    Comands_list = {"0": [f0, "Выход"],
+                    "1": [display_commands_list, 'Спрафка'],
+                    "2": [f1, 'Добавить Файл; N'],
+                    "3": [f2, 'Добавить Папку; N']}
+
+    if len(argv) > 1:
+        for i in argv[1:]:
+            if i in Comands_list.keys():
+                Comands_list[i][0]()
+    else:
+        main()
