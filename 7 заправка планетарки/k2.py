@@ -2,7 +2,7 @@
 offmat = {"Proteins",
           "Electrolytes"}
 
-with open("2.txt", "r") as f:
+with open("7 заправка планетарки/2.txt", "r") as f:
     s = list()
     for i in f.readlines():
         i = i.split("	")
@@ -18,7 +18,7 @@ for i in s:
         temp[i] = 40
 
 su = sum(temp.values())
-m3 = 20000/0.19
+m3 = (10000)/0.19
 
 tp = []
 for i in list(temp.keys()):

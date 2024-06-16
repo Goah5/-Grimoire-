@@ -1,0 +1,21 @@
+Nanites	Livestock	Construction Blocks	Biotech Research Reports	None known	Wetware Mainframe	
+Silicate glass	Rocket Fuel	-	Camera Drones	Tactical Capsuleer Recloner	Self-Harmonizing Power Core	
+Oxides	Coolant	-	Condensates	None known	Organic Mortar Applicators	
+Test Cultures	Synthetic Oil	Fertilizer	Cryoprotectant Solution	Ascendancy/Hydra/Mimesis/Nirvana/Rapture/Savior Implants, Mobile Sanguine Harvester	Wetware Mainframe	
+Supertensile Plastics	Microfiber Shielding	-	Data Chips	Nanite Repair Paste	Broadcast Node	
+Oxides	Biocells	Superconductors	Gel-Matrix Biopaste	Nanite Repair Paste, Ascendancy/Hydra/Nirvana/Rapture/Savior Implants, Capital components, Nanoheuristic Clone Mapper	Integrity Response Drones	
+Water-Cooled CPU	Transmitter	-	Guidance Systems	T2 Fighters, Mobile Structures	Recursive Computing Module	
+Polytextiles	Viral Agent	Transmitter	Hazmat Detection Systems	None known	Integrity Response Drones	
+Polyaramids	Genetically Enhanced Livestock	-	Hermetic Membranes	Prototype Cloaking Device I, Capital components	Self-Harmonizing Power Core	
+Polyaramids	Transmitter	-	High-Tech Transmitters	Mobile Structures (Depots, Micro Jump Units), Entosis Link II	Broadcast Node	
+Fertilizer	Polytextiles	-	Industrial Explosives	None known	Nano Factory	
+Biocells	Silicate Glass	-	Neocoms	Tactical Capsuleer Recloner	Broadcast Node	
+Microfiber Shielding	Enriched Uranium	-	Nuclear Reactors	Mobile Structures (Depots, Micro Jump Units)	Self-Harmonizing Power Core	
+Supertensile Plastics	Mechanical Parts	Miniature Electronics	Planetary Vehicles	None known	Integrity Response Drones	
+Mechanical Parts	Consumer Electronics	-	Robotics	Structure Fuel, T2 components	Organic Mortar Applicators	
+Construction Blocks	Miniature Electronics	-	Smartfab Units	Mobile Structures	Sterile Conduits	
+Water-Cooled CPU	Coolant	Consumer Electronics	Supercomputers	Prototype Cloaking Device I	Wetware Mainframe	
+Supertensile Plastics	Test Cultures	-	Synthetic Synapses	Mindlink Implants, Ascendancy/Hydra/Mimesis/Nirvana/Rapture/Savior Implants, Capital components, Command bursts, Nanoheuristic Clone Mapper	Recursive Computing Module	
+Biocells	Nanites	-	Transcranial Microcontrollers	Ascendancy/Hydra/Nirvana/Rapture/Savior Implants, Entosis Link II	Recursive Computing Module	
+Synthetic Oil	Superconductors	-	Ukomi Superconductors	Mobile Structures (Tractor Units), Nirvana Implants	Nano-Factory	
+Livestock	Viral Agent	-	Vaccines	None known	Sterile Conduits
