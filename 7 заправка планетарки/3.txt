@@ -1,5 +1,5 @@
 Nanites	Livestock	Construction Blocks	Biotech Research Reports	None known	Wetware Mainframe	
-Silicate glass	Rocket Fuel	-	Camera Drones	Tactical Capsuleer Recloner	Self-Harmonizing Power Core	
+Silicate Glass	Rocket Fuel	-	Camera Drones	Tactical Capsuleer Recloner	Self-Harmonizing Power Core	
 Oxides	Coolant	-	Condensates	None known	Organic Mortar Applicators	
 Test Cultures	Synthetic Oil	Fertilizer	Cryoprotectant Solution	Ascendancy/Hydra/Mimesis/Nirvana/Rapture/Savior Implants, Mobile Sanguine Harvester	Wetware Mainframe	
 Supertensile Plastics	Microfiber Shielding	-	Data Chips	Nanite Repair Paste	Broadcast Node	
