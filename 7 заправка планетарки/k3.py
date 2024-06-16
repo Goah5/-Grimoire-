@@ -4,7 +4,7 @@ from icecream import ic
 def inputMatpool() -> dict[str, int]:
     matpool = dict()
     while temp := input():
-        t = temp.split("*	")
+        t = [temp[:temp.index("*")],temp[temp.index("*")+1:-1]]
         # t[0] = t[0].lower()
         try:
             matpool[t[0]] += int(t[1])
@@ -66,7 +66,7 @@ def main():
             except:
                 usedmat[i] = temp[i]
 
-    ic.enable()
+    # ic.enable()
     ic(recipes)
     ic(usedmat)
     ic(matpool)
