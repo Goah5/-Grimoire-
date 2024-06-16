@@ -67,6 +67,7 @@ def main():
                 usedmat[i] = temp[i]
 
     # ic.enable()
+    # ic.enable()
     ic(recipes)
     ic(usedmat)
     ic(matpool)
