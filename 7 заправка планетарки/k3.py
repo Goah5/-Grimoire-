@@ -78,7 +78,7 @@ def main():
         pri.append(f"{i}*	{j}")
     for i in sorted(pri):
         print(i)
-
+    input("Enter")
 
 ic.disable()
 main()

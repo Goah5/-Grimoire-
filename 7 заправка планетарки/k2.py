@@ -2,7 +2,7 @@
 offmat = {"Proteins",
           "Electrolytes"}
 
-with open("7 заправка планетарки/2.txt", "r") as f:
+with open("2.txt", "r") as f:
     s = list()
     for i in f.readlines():
         i = i.split("	")
@@ -27,5 +27,6 @@ tp.sort()
 for j in tp:
     print(j)
 
+input("Enter")
 
 print(m3//su, m3/su, su)
