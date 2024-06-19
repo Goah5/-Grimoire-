@@ -1,4 +1,5 @@
-from icecream import ic
+from icecream import ic # "Информативный" print
+
 
 
 def inputMatpool() -> dict[str, int]:
@@ -66,7 +67,7 @@ def main():
             except:
                 usedmat[i] = temp[i]
 
-    # ic.enable()
+
     # ic.enable()
     ic(recipes)
     ic(usedmat)
