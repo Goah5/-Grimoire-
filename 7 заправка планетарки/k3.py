@@ -40,9 +40,13 @@ def simCraft(matpool, recipes) -> tuple[dict]:
 
 def getRecipesList() -> list[list[str]]:
 
-    with open("3.txt", "r") as f:
+    with open("D:\\Python\\Grimoire\\7 заправка планетарки\\3.txt", "r") as f:
         RecipeList = list()
         for i in f.readlines():
+            if i == "\n":
+                continue    
+            if "#" in i:
+                continue
             temp = i.split("	")[0:3]
             if temp[2] == "-":
                 RecipeList.append(temp[0:2])
@@ -75,10 +79,19 @@ def main():
 
     print()
     pri = []
+    su = 0
     for i, j in usedmat.items():
-        pri.append(f"{i}*	{j}")
+        pri.append(f"{i}*  {j}")
+        su += j
+    pri.sort()
+
+    prev = 0
     for i in sorted(pri):
+        if prev == int(i.split('  ')[-1]):
+            print("  ", end="")
+        prev = int(i.split('  ')[-1])
         print(i)
+    print(f"\nTotal m3: {su*0.75} m3\n")
     input("Enter")
 
 ic.disable()

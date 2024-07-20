@@ -5,7 +5,7 @@ Test Cultures	Synthetic Oil	Fertilizer	Cryoprotectant Solution	Ascendancy/Hydra/
 Supertensile Plastics	Microfiber Shielding	-	Data Chips	Nanite Repair Paste	Broadcast Node	
 Oxides	Biocells	Superconductors	Gel-Matrix Biopaste	Nanite Repair Paste, Ascendancy/Hydra/Nirvana/Rapture/Savior Implants, Capital components, Nanoheuristic Clone Mapper	Integrity Response Drones	
 Water-Cooled CPU	Transmitter	-	Guidance Systems	T2 Fighters, Mobile Structures	Recursive Computing Module	
-Polytextiles	Viral Agent	Transmitter	Hazmat Detection Systems	None known	Integrity Response Drones	
+#Polytextiles	Viral Agent	Transmitter	Hazmat Detection Systems	None known	Integrity Response Drones	
 Polyaramids	Genetically Enhanced Livestock	-	Hermetic Membranes	Prototype Cloaking Device I, Capital components	Self-Harmonizing Power Core	
 Polyaramids	Transmitter	-	High-Tech Transmitters	Mobile Structures (Depots, Micro Jump Units), Entosis Link II	Broadcast Node	
 Fertilizer	Polytextiles	-	Industrial Explosives	None known	Nano Factory	
@@ -19,3 +19,11 @@ Supertensile Plastics	Test Cultures	-	Synthetic Synapses	Mindlink Implants, Asce
 Biocells	Nanites	-	Transcranial Microcontrollers	Ascendancy/Hydra/Nirvana/Rapture/Savior Implants, Entosis Link II	Recursive Computing Module	
 Synthetic Oil	Superconductors	-	Ukomi Superconductors	Mobile Structures (Tractor Units), Nirvana Implants	Nano-Factory	
 Livestock	Viral Agent	-	Vaccines	None known	Sterile Conduits
+
+Supertensile Plastics	Microfiber Shielding	-	Data Chips	Nanite Repair Paste	Broadcast Node	
+Supertensile Plastics	Microfiber Shielding	-	Data Chips	Nanite Repair Paste	Broadcast Node	
+Biocells	Silicate Glass	-	Neocoms	Tactical Capsuleer Recloner	Broadcast Node	
+Biocells	Silicate Glass	-	Neocoms	Tactical Capsuleer Recloner	Broadcast Node	
+Polyaramids	Transmitter	-	High-Tech Transmitters	Mobile Structures (Depots, Micro Jump Units), Entosis Link II	Broadcast Node	
+Polyaramids	Transmitter	-	High-Tech Transmitters	Mobile Structures (Depots, Micro Jump Units), Entosis Link II	Broadcast Node	
+

@@ -1,0 +1,39 @@
+1.	MapThe Spire	Station systemMapY8K-5B	-0.68	Northern Coalition.	0	0	13	 
+2.		Station systemMapM-NP5O	-1.00	Northern Coalition.	1	0	8	Go from here
+3.		Map4HF-4R	-0.71	Northern Coalition.	1	0	15	Go from here
+4.		Station systemMapWIW-X8	-0.96	Northern Coalition.	2	0	13	Go from here
+5.		Station systemMapQRH-BF	-0.94	Northern Coalition.	2	0	17	Go from here
+6.		Station systemMapB6-XE8	-0.72	Northern Coalition.	2	0	17	Go from here
+7.		MapX-KHRZ	-0.62	Northern Coalition.	3	0	13	Go from here
+8.		MapJLH-FN	-0.70	Northern Coalition.	3	2	56	Go from here
+9.		Station systemMapMOSA-I	-0.80	Northern Coalition.	3	0	12	Go from here
+10.		Station systemMapETO-OT	-0.80	Northern Coalition.	4	0	32	Go from here
+11.		MapL-EUY2	-0.52	Northern Coalition.	4	1	55	Go from here
+12.		MapDFTK-D	-0.87	Northern Coalition.	4	0	70	Go from here
+13.		MapJL-ZUQ	-0.46	Northern Coalition.	5	0	26	Go from here
+14.		MapY4B-BQ	-0.36	Northern Coalition.	5	0	136	Go from here
+15.		MapAG-SYG	-0.91	Northern Coalition.	5	0	84	Go from here
+16.	MapPerrigen Falls	MapPA-ALN	-0.47	Pandemic Horde	5	0	22	Go from here
+17.	MapThe Spire	MapT6T-BQ	-0.67	Northern Coalition.	5	0	6	Go from here
+18.		MapAL-JSG	-0.43	Northern Coalition.	5	0	34	Go from here
+19.		MapL7-BLT	-0.92	Northern Coalition.	5	0	49	Go from here
+20.		MapK-YL9T	-0.11	Northern Coalition.	6	1	95	Go from here
+21.	MapPerrigen Falls	Station systemMap2AUL-X	-0.35	Pandemic Horde	6	0	20	Go from here
+22.	MapThe Spire	MapP65-TA	-0.63	Northern Coalition.	6	0	29	Go from here
+23.		Station systemMapEU-WFW	-0.15	Northern Coalition.	6	0	110	Go from here
+24.		Station systemMapA-J6SN	-0.80	Solyaris Chtonium	6	0	67	Go from here
+25.		MapC6C-K9	-0.60	Solyaris Chtonium	6	0	68	Go from here
+26.		Station systemMapKPI-OW	-0.31	Northern Coalition.	6	0	37	Go from here
+27.		MapN-PS2Y	-0.67	Northern Coalition.	6	0	4	Go from here
+28.	MapPerrigen Falls	MapE-WMT7	-0.14	Pan-Intergalatic...	7	0	141	Go from here
+29.	MapThe Spire	Station systemMapGTB-O4	-0.13	Northern Coalition.	7	0	8	Go from here
+30.	MapPerrigen Falls	MapOBV-YC	-0.33	Pandemic Horde	7	0	5	Go from here
+31.	MapThe Spire	Station systemMap1I5-0V	-0.53	Northern Coalition.	7	0	6	Go from here
+32.		MapG-VFVB	-0.29	Northern Coalition.	7	0	42	Go from here
+33.	MapPerrigen Falls	Station systemMap9IZ-HU	-0.38	Pandemic Horde	7	0	34	Go from here
+34.	MapThe Spire	Station systemMap6W-6O9	-0.12	Northern Coalition.	7	0	77	Go from here
+35.	MapOuter Passage	Station systemMapJUE-DX	-0.35	Pan-Intergalatic...	7	0	31	Go from here
+36.	MapEtherium Reach	Station systemMapJAWX-R	-0.69	Solyaris Chtonium	7	0	82	Go from here
+37.	MapThe Spire	MapQ-UVY6	-0.38	Northern Coalition.	7	0	26	Go from here
+38.		Station systemMapK-BBYU	-0.61	Northern Coalition.	7	0	22	Go from here
+39.		Station systemMapOTJ-4W	-0.20	Northern Coalition.	7	0	5	Go from here

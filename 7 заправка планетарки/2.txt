@@ -2,8 +2,8 @@ Precious Metals	Biofuels	Biocells	Capital components	Gel-Matrix Biopaste, Neocom
 Toxic Metals	Reactive Metals	Construction Blocks	T2 component	Biotech Research Reports, Smartfab Units	
 Chiral Structures	Toxic Metals	Consumer Electronics	T2 component, Research component	Robotics, Supercomputers	
 Water	Electrolytes	Coolant	Structure Fuel	Condensates, Supercomputers	
-Proteins	Bacteria	Fertilizer	None known	Cryoprotectant Solution, Industrial Explosives	
-Biofuels	Proteins	Livestock	None known	Biotech Research Reports, Vaccines	
+#Proteins	Bacteria	Fertilizer	None known	Cryoprotectant Solution, Industrial Explosives	
+#Biofuels	Proteins	Livestock	None known	Biotech Research Reports, Vaccines	
 Precious Metals	Reactive Metals	Mechanical Parts	Structure Fuel, T2 components	Planetary Vehicles, Robotics	
 Silicon	Industrial Fibers	Microfiber Shielding	None known	Data Chips, Nuclear Reactors	
 Silicon	Chiral Structures	Miniature Electronics	T2 Components	Planetary Vehicles, Smartfab Units	
@@ -19,3 +19,10 @@ Water	Bacteria	Test Cultures	Capital components	Cryoprotectant Solution, Synthet
 Chiral Structures	Plasmoids	Transmitter	T2 Component	Guidance Systems, Hazmat Detection Systems, High-Tech Transmitter	
 Biomass	Bacteria	Viral Agent	None known	Hazmat Detection Systems, Vaccines	
 Water	Reactive Metals	Water-Cooled CPU	T2 Industrial Cores	Guidance Systems, Supercomputers
+Toxic Metals	Precious Metals	Enriched Uranium	Structure Fuel	Nuclear Reactors
+Electrolytes	Plasmoids	Rocket Fuel	T2 Missiles	Camera Drones
+#Biomass	Proteins	Genetically Enhanced Livestock	None known	Hermetic Membranes
+
+Precious Metals	Biofuels	Biocells	Capital components	Gel-Matrix Biopaste, Neocoms, Transcranial Microcontroller	
+Biomass	Oxygen	Supertensile Plastics	None known	Data Chips, Planetary Vehicles, Synthetic Synapses	
+Chiral Structures	Plasmoids	Transmitter	T2 Component	Guidance Systems, Hazmat Detection Systems, High-Tech Transmitter	
